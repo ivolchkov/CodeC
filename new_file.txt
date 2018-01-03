@@ -1,0 +1,3 @@
+Hello,I am a programmer on C language,working with files.
+
+by a newbie programmer I.Volchkov
