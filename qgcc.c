@@ -28,7 +28,7 @@ int main ( int argc , char *argv[])
     getchar();
     char qstart[50]={"./"};
     char *start = file_exe ;//name.exe
-    strcat(qstart,start);
+    strcat(qstart,start); //./name.exe
     system(qstart);
 
 
